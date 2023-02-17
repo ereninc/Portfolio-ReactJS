@@ -15,7 +15,7 @@ export default function ProjectItem(props) {
       >
         <div
           className="project-item-title"
-          style={{ backgroundColor: `${props.color}` }}
+          style={{ backgroundColor: `${props.bgColor}` }}
         >
           <h2>{props.title}</h2>
         </div>

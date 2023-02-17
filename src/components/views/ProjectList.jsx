@@ -43,7 +43,7 @@ export default function ProjectList(props) {
             title={project.title}
             url={project.url}
             alt={project.alt}
-            color={project.color}
+            bgColor={project.bgColor}
             onClick={() => {
               setModalTitle(project.title);
               setModalDescription(project.description);

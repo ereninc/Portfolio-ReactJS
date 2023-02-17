@@ -7,9 +7,6 @@ export default function ProjectModal(props) {
     props.setModalActive(false);
   }
 
-  console.log(props.firstImage);
-  console.log(props.secondImage);
-
   return (
     <div className={className}>
       <div className="project-modal-header">
