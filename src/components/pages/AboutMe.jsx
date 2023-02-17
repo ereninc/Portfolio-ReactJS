@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/AboutMe.css";
+import "../../styles/AboutMe.css";
 
 export default function AboutMe() {
   return (
@@ -23,7 +23,7 @@ export default function AboutMe() {
           <img
             className="picture"
             src="https://scheefer.me/img/avatar.png"
-            alt=""
+            alt="my pixelated face"
           />
         </div>
       </div>
