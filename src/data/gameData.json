@@ -1,37 +1,58 @@
 [
   {
     "title": "best game ever",
+    "description": "this is the best game ever",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   },
   {
     "title": "second best game",
+    "description": "this is the best game ever2",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   },
   {
     "title": "not best game",
+    "description": "this is the best game ever3",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   },
   {
     "title": "best game ever",
+    "description": "this is the best game ever4",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   },
   {
     "title": "second best game",
+    "description": "this is the best game ever5",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   },
   {
     "title": "not best game",
+    "description": "this is the best game ever6",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   },
   {
     "title": "best game ever",
+    "description": "this is the best game ever7",
     "url": "https://picsum.photos/300",
-    "bgColor": "rgb(45, 164, 98, 0.35);"
+    "bgColor": "rgb(45, 164, 98, 0.35);",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
   }
 ]

@@ -7,7 +7,11 @@ import ProjectModal from "../modals/ProjectModal";
 export default function ProjectList(props) {
   const projectList = props.projects;
   const [modalActive, setModalActive] = React.useState(true);
-  const [activeGame, setActiveGame] = React.useState({});
+
+  const [modalTitle, setModalTitle] = React.useState("");
+  const [modalDescription, setModalDescription] = React.useState("");
+  const [modalGooglePlayUrl, setModalGooglePlayUrl] = React.useState("");
+  const [modalAppStoreUrl, setModalAppStoreUrl] = React.useState("");
 
   function handleClick(e) {
     setModalActive(true);
@@ -16,7 +20,14 @@ export default function ProjectList(props) {
   return (
     <>
       {modalActive ? (
-        <ProjectModal active={modalActive} setModalActive={setModalActive} />
+        <ProjectModal
+          active={modalActive}
+          setModalActive={setModalActive}
+          title={modalTitle}
+          description={modalDescription}
+          googlePlayUrl={modalGooglePlayUrl}
+          appStoreUrl={modalAppStoreUrl}
+        />
       ) : (
         ""
       )}
@@ -28,7 +39,13 @@ export default function ProjectList(props) {
             url={project.url}
             alt={project.alt}
             color={project.color}
-            onClick={handleClick}
+            onClick={() => {
+              setModalTitle(project.title);
+              setModalDescription(project.description);
+              setModalGooglePlayUrl(project.googlePlayUrl);
+              setModalAppStoreUrl(project.appStoreUrl);
+              handleClick();
+            }}
           />
         ))}
       </div>
