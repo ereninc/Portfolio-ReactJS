@@ -7,8 +7,12 @@ import ProjectModal from "../modals/ProjectModal";
 export default function ProjectList(props) {
   const projectList = props.projects;
   const [modalActive, setModalActive] = React.useState(props.modalState);
+
+  //I could do this object but im bored
   const [modalTitle, setModalTitle] = React.useState("");
   const [modalDescription, setModalDescription] = React.useState("");
+  const [modalFirstImage, setModalFirstImage] = React.useState("");
+  const [modalSecondImage, setModalSecondImage] = React.useState("");
   const [modalGooglePlayUrl, setModalGooglePlayUrl] = React.useState("");
   const [modalAppStoreUrl, setModalAppStoreUrl] = React.useState("");
 
@@ -24,6 +28,8 @@ export default function ProjectList(props) {
           setModalActive={setModalActive}
           title={modalTitle}
           description={modalDescription}
+          firstImage={modalFirstImage}
+          secondImage={modalSecondImage}
           googlePlayUrl={modalGooglePlayUrl}
           appStoreUrl={modalAppStoreUrl}
         />
@@ -41,6 +47,8 @@ export default function ProjectList(props) {
             onClick={() => {
               setModalTitle(project.title);
               setModalDescription(project.description);
+              setModalFirstImage(project.firstImage);
+              setModalSecondImage(project.secondImage);
               setModalGooglePlayUrl(project.googlePlayUrl);
               setModalAppStoreUrl(project.appStoreUrl);
               handleClick();

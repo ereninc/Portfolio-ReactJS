@@ -7,7 +7,11 @@ export default function ProjectItem(props) {
       <div
         onClick={props.onClick}
         className="project-item"
-        style={{ backgroundImage: `url(${props.url})` }}
+        style={{
+          backgroundImage: `url(images/games/${props.url})`,
+          backgroundSize: "cover",
+          backgroundRepeat: "no-repeat",
+        }}
       >
         <div
           className="project-item-title"

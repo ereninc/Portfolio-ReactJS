@@ -7,6 +7,9 @@ export default function ProjectModal(props) {
     props.setModalActive(false);
   }
 
+  console.log(props.firstImage);
+  console.log(props.secondImage);
+
   return (
     <div className={className}>
       <div className="project-modal-header">
@@ -36,12 +39,12 @@ export default function ProjectModal(props) {
         <div className="image-gallery">
           <img
             className="gallery-image"
-            src="https://picsum.photos/300/400"
+            src={props.firstImage}
             alt="my pixelated face"
           />
           <img
             className="gallery-image"
-            src="https://picsum.photos/300/400"
+            src={props.secondImage}
             alt="my pixelated face"
           />
         </div>
