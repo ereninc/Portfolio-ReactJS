@@ -6,8 +6,7 @@ import ProjectModal from "../modals/ProjectModal";
 
 export default function ProjectList(props) {
   const projectList = props.projects;
-  const [modalActive, setModalActive] = React.useState(true);
-
+  const [modalActive, setModalActive] = React.useState(props.modalState);
   const [modalTitle, setModalTitle] = React.useState("");
   const [modalDescription, setModalDescription] = React.useState("");
   const [modalGooglePlayUrl, setModalGooglePlayUrl] = React.useState("");

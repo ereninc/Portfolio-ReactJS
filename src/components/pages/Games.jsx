@@ -11,7 +11,7 @@ export default function Games() {
         Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem
         ipsumLorem ipsum
       </p>
-      <ProjectList projects={gameData} />
+      <ProjectList projects={gameData} modalState={false} />
     </div>
   );
 }
