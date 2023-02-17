@@ -1,0 +1,9 @@
+.App {
+  margin-top: 150px;
+  max-width: 1920px;
+  width: 80%;
+}
+
+body {
+  background-color: rgb(52, 57, 59);
+}

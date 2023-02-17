@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 100px auto;
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  color: #c2c2c2;
+  margin: 0;
+  padding: 0;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: auto;
+  margin-left: auto;
+  width: 80%;
+}
+
+.hello {
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.me {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 36px;
+  width: 100%;
+}
+
+.text {
+}
