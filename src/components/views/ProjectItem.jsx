@@ -3,16 +3,19 @@ import "../../styles/project-items/ProjectItem.css";
 
 export default function ProjectItem(props) {
   return (
-    <div
-      className="project-item"
-      style={{ backgroundImage: "url(" + `${props.url}` + ")" }}
-    >
+    <>
       <div
-        className="project-item-title"
-        style={{ backgroundColor: `${props.color}` }}
+        onClick={props.onClick}
+        className="project-item"
+        style={{ backgroundImage: "url(" + `${props.url}` + ")" }}
       >
-        <h2>{props.title}</h2>
+        <div
+          className="project-item-title"
+          style={{ backgroundColor: `${props.color}` }}
+        >
+          <h2>{props.title}</h2>
+        </div>
       </div>
-    </div>
+    </>
   );
 }

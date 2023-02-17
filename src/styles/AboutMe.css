@@ -8,7 +8,7 @@
   justify-content: center;
   margin-left: auto;
   margin-left: auto;
-  width: 80%;
+  width: 90%;
 }
 
 .hello {
@@ -24,4 +24,9 @@
   align-items: center;
   gap: 48px;
   width: 100%;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 1.5;
 }
