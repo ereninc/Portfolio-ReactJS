@@ -9,7 +9,10 @@ export default function ProjectModal(props) {
 
   return (
     <div className={className}>
-      <div className="project-modal-header">
+      <div
+        className="project-modal-header"
+        style={{ backgroundColor: `${props.bgColor}` }}
+      >
         <h1 className="project-modal-title">{props.title}</h1>
         <button onClick={handleClick} className="project-modal-close-button">
           &times;
@@ -38,11 +41,13 @@ export default function ProjectModal(props) {
             className="gallery-image"
             src={props.firstImage}
             alt="my pixelated face"
+            style={{ border: `2px solid ${props.bgColor}` }}
           />
           <img
             className="gallery-image"
             src={props.secondImage}
             alt="my pixelated face"
+            style={{ border: `2px solid ${props.bgColor}` }}
           />
         </div>
       </div>

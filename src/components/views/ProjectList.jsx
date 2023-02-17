@@ -11,6 +11,7 @@ export default function ProjectList(props) {
   //I could do this object but im bored
   const [modalTitle, setModalTitle] = React.useState("");
   const [modalDescription, setModalDescription] = React.useState("");
+  const [modalBgColor, setModalBgColor] = React.useState("");
   const [modalFirstImage, setModalFirstImage] = React.useState("");
   const [modalSecondImage, setModalSecondImage] = React.useState("");
   const [modalGooglePlayUrl, setModalGooglePlayUrl] = React.useState("");
@@ -28,6 +29,7 @@ export default function ProjectList(props) {
           setModalActive={setModalActive}
           title={modalTitle}
           description={modalDescription}
+          bgColor={modalBgColor}
           firstImage={modalFirstImage}
           secondImage={modalSecondImage}
           googlePlayUrl={modalGooglePlayUrl}
@@ -47,6 +49,7 @@ export default function ProjectList(props) {
             onClick={() => {
               setModalTitle(project.title);
               setModalDescription(project.description);
+              setModalBgColor(project.bgColor);
               setModalFirstImage(project.firstImage);
               setModalSecondImage(project.secondImage);
               setModalGooglePlayUrl(project.googlePlayUrl);
