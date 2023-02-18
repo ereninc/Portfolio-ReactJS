@@ -3,7 +3,7 @@ import React from "react";
 export default function WebApps() {
   return (
     <div>
-      <h1>WEB APPS</h1>
+      <h1>Will be updated</h1>
     </div>
   );
 }
