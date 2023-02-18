@@ -2,10 +2,16 @@ import React from "react";
 import "../../styles/Games.css";
 import ProjectList from "../views/ProjectList";
 import gameData from "../../data/gameData.json";
+import { motion } from "framer-motion";
 
 export default function Games() {
   return (
-    <div className="games">
+    <motion.div
+      className="games"
+      initial={{ opacity: 0, scale: 0, y: 100 }}
+      animate={{ opacity: 1, scale: 1, y: 0 }}
+      exit={{ opacity: 0, scale: 0, y: -100, transition: { duration: 0.1 } }}
+    >
       <h1 className="hello">Games</h1>
       <p className="description">
         Hyper/Hybrid Casual games that I have made. I have worked on different
@@ -43,6 +49,6 @@ export default function Games() {
         </span>
         " profile.
       </p>
-    </div>
+    </motion.div>
   );
 }
