@@ -24,3 +24,41 @@
   margin-bottom: 24px;
   width: 90%;
 }
+
+.footer {
+  background-color: black;
+  width: 100%;
+  height: 140px;
+}
+
+.footer-text {
+  font-size: 36px;
+  font-weight: 500;
+  opacity: 0.5;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.itch {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: #ff2a2a;
+}
+.itch:hover {
+  text-decoration: underline;
+}
+
+.google-play {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  color: #00b3ff;
+  transition: all 0.3s ease-in-out;
+}
+
+.google-play:hover {
+  text-decoration: underline;
+}

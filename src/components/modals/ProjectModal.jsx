@@ -52,7 +52,10 @@ export default function ProjectModal(props) {
         </div>
       </div>
 
-      <div className="project-modal-footer"></div>
+      <div
+        className="project-modal-footer"
+        style={{ backgroundColor: `${props.bgColor}` }}
+      ></div>
     </div>
   );
 }

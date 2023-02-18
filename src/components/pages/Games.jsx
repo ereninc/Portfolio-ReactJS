@@ -17,6 +17,32 @@ export default function Games() {
         some are still in development, and some are just prototypes.
       </p>
       <ProjectList projects={gameData} modalState={false} />
+
+      <p className="footer-text">
+        More on "
+        <span className="link">
+          <a
+            href="https://0xmemory.itch.io/"
+            target="_blank"
+            rel="noreferrer"
+            className="link itch"
+          >
+            itch.io
+          </a>
+        </span>
+        " and "
+        <span className="link">
+          <a
+            href="https://play.google.com/store/apps/dev?id=9082966488677640197"
+            target="_blank"
+            rel="noreferrer"
+            className="link google-play"
+          >
+            Google Play
+          </a>
+        </span>
+        " profile.
+      </p>
     </div>
   );
 }
