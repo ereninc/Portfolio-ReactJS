@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  /* gap: 40px; */
   background-color: #222425;
   color: rgba(255, 255, 255, 0.524);
   text-align: center;
@@ -35,8 +34,8 @@
 }
 
 .portfolio-src {
-  color: rgb(255, 255, 255);
-  font-size: 1.5rem;
+  color: rgb(160, 224, 254);
+  font-size: 1rem;
   margin: 0 10px;
   text-decoration: none;
   transition: all 0.3s ease-in-out;

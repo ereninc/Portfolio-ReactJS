@@ -13,11 +13,11 @@ export default function Footer() {
               rel="noreferrer"
               className="portfolio-src"
             >
-              Portfolio{" "}
+              Portfolio
             </a>
-          </span>{" "}
+          </span>
           by
-          <span className="linkedin">
+          <span>
             <a
               href="https://www.linkedin.com/in/ereninanci/"
               target="_blank"
