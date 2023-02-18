@@ -30,3 +30,8 @@
   font-size: 18px;
   line-height: 1.5;
 }
+
+.highlight {
+  color: #f5a623;
+  font-weight: 600;
+}
