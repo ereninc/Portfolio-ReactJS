@@ -11,6 +11,9 @@ export default function Navbar() {
       <NavLink exact="true" className="nav-item" to="/games">
         Games
       </NavLink>
+      <NavLink exact="true" className="nav-item" to="/others">
+        Tools & Shaders
+      </NavLink>
       <NavLink exact="true" className="nav-item" to="/webapps">
         Web Projects
       </NavLink>
