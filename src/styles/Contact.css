@@ -1,0 +1,28 @@
+.contact-items {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  margin: 24px auto;
+  width: 100%;
+  height: 100%;
+}
+
+.contact-title {
+  margin-top: 256px;
+  display: flex;
+  align-self: center;
+  font-size: 3rem;
+  color: #ffffffb5;
+  align-items: center;
+}
+
+.contact-desc {
+  display: flex;
+  align-self: center;
+  font-size: 1rem;
+  color: #ffffff;
+  align-items: center;
+  margin-top: 24px;
+  margin-bottom: 48px;
+}

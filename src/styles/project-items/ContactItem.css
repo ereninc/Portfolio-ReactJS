@@ -1,17 +1,40 @@
 .contact-item {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 36px;
   align-items: center;
-  justify-content: center;
+  margin: 10px;
   width: 100%;
   height: 100%;
-  background-color: #ff0000;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  padding: 20px;
-  box-sizing: border-box;
-  transition: all 0.3s ease;
-  cursor: pointer;
-  position: relative;
-  overflow: hidden;
+  margin-left: 96px;
+  color: #ffffffa3;
+}
+
+.fa,
+.fab,
+.fas {
+  display: flex;
+  align-self: center;
+  font-size: 2rem;
+  width: 20px;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #ffffff63;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.fa-user {
+  margin-left: 2px;
+  margin-right: -1px;
+}
+
+.fa-gamepad {
+  margin-left: -3px;
+  margin-right: 2px;
 }
