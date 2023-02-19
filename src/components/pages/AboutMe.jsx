@@ -6,12 +6,12 @@ export default function AboutMe() {
   return (
     <motion.div
       className="about-me"
-      initial={{ opacity: 0, scale: 0, y: 100 }}
-      animate={{ opacity: 1, scale: 1, y: 0 }}
+      initial={{ opacity: 0 }}
+      animate={{ width: "100%", opacity: 1 }}
       exit={{
-        opacity: 0,
-        scale: 0,
-        transition: { duration: 0 },
+        x: "-100vw",
+        opacity: 1,
+        transition: { duration: 0.3 },
       }}
     >
       <h1 className="hello">Hello!</h1>
@@ -27,7 +27,7 @@ export default function AboutMe() {
         </p>
         <img
           className="picture"
-          src="https://scheefer.me/img/avatar.png"
+          src="/images/test2.jpg"
           alt="my pixelated face"
         />
       </div>

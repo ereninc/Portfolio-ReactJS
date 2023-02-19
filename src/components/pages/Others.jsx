@@ -9,7 +9,6 @@ export default function Others() {
       exit={{
         x: "-100vw",
         opacity: 1,
-        scale: 0,
         transition: { duration: 0.3 },
       }}
     >

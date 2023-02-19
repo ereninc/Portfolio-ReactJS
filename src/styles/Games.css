@@ -53,3 +53,9 @@
 .google-play:hover {
   text-decoration: underline;
 }
+
+.sub-text {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+}

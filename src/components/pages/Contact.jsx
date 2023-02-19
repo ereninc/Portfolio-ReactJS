@@ -12,7 +12,6 @@ export default function Contact() {
       exit={{
         x: "-100vw",
         opacity: 1,
-        scale: 0,
         transition: { duration: 0.3 },
       }}
     >

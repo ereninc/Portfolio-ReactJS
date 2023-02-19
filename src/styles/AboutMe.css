@@ -35,3 +35,11 @@
   color: #f5a623;
   font-weight: 600;
 }
+
+.picture {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+}

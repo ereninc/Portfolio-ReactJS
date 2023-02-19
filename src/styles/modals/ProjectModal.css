@@ -84,22 +84,16 @@
   align-items: center;
   gap: 4px;
   margin-right: 16px;
-  margin-top: 20px;
 }
 
 .store-button-google {
   width: 280px;
   height: 118px;
-  /* border-radius: 10px;
-  border: 1px solid white; */
   cursor: pointer;
 }
 
 .store-button-apple {
   height: 82px;
-
-  /* border-radius: 10px;
-  border: 1px solid white; */
   cursor: pointer;
 }
 
@@ -107,7 +101,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 20px auto;
+  margin: 0 auto;
   width: 100%;
   height: 100%;
 }

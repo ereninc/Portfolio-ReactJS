@@ -1,7 +1,7 @@
 [
   {
     "title": "Pirate Bay",
-    "description": "this is the best game ever2this is the best game everthis is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Unfortunatelly studio had to close down before i finished it. It was a hybrid casual game with an (almost)open world, islands, ship markets, crew markets and pirate fights.",
     "url": "/pirate/1.png",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/pirate/4.png",
@@ -11,127 +11,127 @@
   },
   {
     "title": "Coin Breaker",
-    "description": "this is the best game ever2this is the best game everthis is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Published by Cube Games, you had to break stacked coins. Coins are only breakable if they are in the same color. You can also upgrade cannons to make them more powerful.",
     "url": "/coin/6.jpg",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/coin/5.jpg",
     "secondImage": "./images/games/coin/1.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.cubegame.coinbreaker",
+    "appStoreUrl": "https://play.google.com/store/apps/details?id=com.cubegame.coinbreaker"
   },
   {
     "title": "Arrow Team",
-    "description": "this is the best game ever3this is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "It wasa grid base merge game, you have to buy and place units to defend your base. You can also upgrade your units.",
     "url": "/arrowTeam/5.jpg",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/arrowTeam/1.jpg",
     "secondImage": "./images/games/arrowTeam/3.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.cubegame.arrowteam",
+    "appStoreUrl": "https://apps.apple.com/tr/app/arrow-team/id1632446973"
   },
   {
     "title": "Melt Master",
-    "description": "this is the best game ever4this is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Made with mesh generation and deformation, you had to break ice blocks to reach the goal. You can also upgrade your tools to make them more powerful.",
     "url": "meltMaster/2.jpg",
     "bgColor": "rgba(146, 52, 158, 0.8)",
     "firstImage": "./images/games/meltMaster/1.jpg",
     "secondImage": "./images/games/meltMaster/5.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/melt-master/id1629852991",
+    "appStoreUrl": "https://apps.apple.com/tr/app/melt-master/id1629852991"
   },
   {
     "title": "Match The Color Ball",
-    "description": "this is the best game ever5this is the best game everthis is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "You have to match the color of the ball with the color of the platform. You can also upgrade your ball to make it more powerful.",
     "url": "match/6.png",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/match/1.jpg",
     "secondImage": "./images/games/match/4.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/match-the-color-ball/id1625257767",
+    "appStoreUrl": "https://apps.apple.com/tr/app/match-the-color-ball/id1625257767"
   },
   {
     "title": "Money Up",
-    "description": "this is the best game ever6this is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Simple runner-like game, you have to collect moneys to level up and merge money bags. You can also upgrade your character to start higher level.",
     "url": "moneyUp/1.jpg",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/moneyUp/5.jpg",
     "secondImage": "./images/games/moneyUp/3.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/money-up/id1619992969",
+    "appStoreUrl": "https://apps.apple.com/tr/app/money-up/id1619992969"
   },
   {
     "title": "Slingshot Race",
-    "description": "this is the best game ever7this is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Drag your car to throw it, you can merge other cars to make your car more powerful. You can also upgrade your car to make it more powerful.",
     "url": "slingShot/3.jpg",
     "bgColor": "rgba(48, 48, 48, 0.8)",
     "firstImage": "./images/games/slingShot/1.jpg",
     "secondImage": "./images/games/slingShot/3.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/slingshot-race/id1618751960",
+    "appStoreUrl": "https://apps.apple.com/tr/app/slingshot-race/id1618751960"
   },
   {
     "title": "Bikini Evolution",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "A game about bikinis. Go through year doors and level up your bikini.",
     "url": "/bikini/1.jpg",
     "bgColor": "rgba(52, 158, 100, 0.8)",
     "firstImage": "./images/games/bikini/4.jpg",
     "secondImage": "./images/games/bikini/3.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/bikini-evolution/id1611547764",
+    "appStoreUrl": "https://apps.apple.com/tr/app/bikini-evolution/id1611547764"
   },
   {
     "title": "Bizarre Cocktail",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Try to make most disgusting cocktail. At the end of the level, a character tries to drink it, if he can't drink it, you win.",
     "url": "/bizarre/2.jpg",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/bizarre/2.jpg",
     "secondImage": "./images/games/bizarre/5.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/bizarre-cocktail/id1614797496",
+    "appStoreUrl": "https://apps.apple.com/tr/app/bizarre-cocktail/id1614797496"
   },
   {
     "title": "Rich Rush",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "An endless runner game, collect coins to get more bullet, avoid enemies and obstacles.",
     "url": "/Rich/4.jpg",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/Rich/2.jpg",
     "secondImage": "./images/games/Rich/3.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/rich-rush/id1612653872",
+    "appStoreUrl": "https://apps.apple.com/tr/app/rich-rush/id1612653872"
   },
   {
     "title": "Drag King",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "A racing game, collect moneys and buy much better car parts. Race your opponent at the end of the level.",
     "url": "/drag/1.jpg",
     "bgColor": "rgba(146, 52, 158, 0.8)",
     "firstImage": "./images/games/drag/5.jpg",
     "secondImage": "./images/games/drag/3.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/drag-king/id1610322771",
+    "appStoreUrl": "https://apps.apple.com/tr/app/drag-king/id1610322771"
   },
   {
     "title": "Dribbling Master",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Dribble and shoot the ball to the basket. Avoid enemy team and get more points. You will slamdunk the ball at the end of the level.",
     "url": "/dirbbling/2.jpg",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/dirbbling/1.jpg",
     "secondImage": "./images/games/dirbbling/2.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/dribbling-master/id1606874906",
+    "appStoreUrl": "https://apps.apple.com/tr/app/dribbling-master/id1606874906"
   },
   {
     "title": "Phonecase Evolution",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Collect phones, get them case, paint them and avoid obstacles. Bring more phones to the end of the level to get more points.",
     "url": "/phone/3.jpg",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/phone/4.jpg",
     "secondImage": "./images/games/phone/5.jpg",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/tr/app/phonecase-stack/id1600220750",
+    "appStoreUrl": "https://apps.apple.com/tr/app/phonecase-stack/id1600220750"
   },
   {
     "title": "Mr. Fang",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "You are a vampire lord and gathering your army. You are fighting werewolf boss at the end of every 2 level. Collect humans and turn them into vampires, transform bats and fly over obstacles!",
     "url": "/fang/1.jpg",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/fang/3.jpg",
@@ -141,7 +141,7 @@
   },
   {
     "title": "The Word",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "A Quiz game about music. You have to guess 3 questions to get turn all the judges.",
     "url": "/word/1.jpg",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/word/2.jpg",
@@ -151,7 +151,7 @@
   },
   {
     "title": "Lens Runner",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Avoid obstacless and collect lens to see much clearer and of the level.",
     "url": "/lens/1.jpg",
     "bgColor": "rgb(45, 164, 98, 0.35)",
     "firstImage": "./images/games/lens/1.jpg",
@@ -161,7 +161,7 @@
   },
   {
     "title": "Salad Party!",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Kill vegetables with a razor gun and make a salad with them.",
     "url": "/salad/1.jpg",
     "bgColor": "rgba(146, 52, 158, 0.8)",
     "firstImage": "./images/games/salad/2.jpg",
@@ -171,7 +171,7 @@
   },
   {
     "title": "The Office",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "A slingshot game with The Office characters. Drag the character to the slingshot and release to shoot.",
     "url": "/office/1.jpg",
     "bgColor": "rgba(52, 158, 100, 0.8)",
     "firstImage": "./images/games/office/2.jpg",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Jevelry Run",
-    "description": "A game about bikinis. Go through doors and level up! This is the best game everthis is the best game everthis is the best game everthis is the best game ever",
+    "description": "Collect beads to make your bracelet. Avoid the obstacles and collect the beads. Rope was a mesh.",
     "url": "/jevelrun/1.jpg",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/jevelrun/2.jpg",

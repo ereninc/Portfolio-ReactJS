@@ -13,7 +13,6 @@ export default function Games() {
       exit={{
         x: "-100vw",
         opacity: 1,
-        scale: 0,
         transition: { duration: 0.3 },
       }}
     >
@@ -55,6 +54,9 @@ export default function Games() {
         </span>
         " profile.
       </p>
+      <span className="sub-text">
+        (Even some stuff that i dont proud of 😂 )
+      </span>
     </motion.div>
   );
 }
