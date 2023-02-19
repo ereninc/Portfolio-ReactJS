@@ -17,7 +17,7 @@ export default function Games() {
         transition: { duration: 0.3 },
       }}
     >
-      <h1 className="hello">Games</h1>
+      <h1 className="game">Games</h1>
       <p className="description">
         Hyper/Hybrid Casual games that I have made. I have worked on different
         roles in the development of these games. I have worked as a programmer,
@@ -26,6 +26,7 @@ export default function Games() {
         <br></br>You can visit the preview page by clicking on the project. Some
         have been published on the Google Play Store and the Apple App Store,
         some are still in development, and some are just prototypes.
+        Chronologically newest to oldest.
       </p>
       <ProjectList projects={gameData} modalState={false} />
 

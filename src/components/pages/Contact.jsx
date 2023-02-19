@@ -6,6 +6,7 @@ import "../../styles/Contact.css";
 export default function Contact() {
   return (
     <motion.div
+      className="contact"
       initial={{ opacity: 0 }}
       animate={{ width: "100%", opacity: 1 }}
       exit={{

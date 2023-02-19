@@ -12,10 +12,13 @@
   width: 80%;
 }
 
-.hello {
-  font-size: 36px;
-  font-weight: 500;
+.game {
+  margin-top: 104px;
+  font-size: 2rem;
+  font-weight: 600;
   margin-bottom: 24px;
+  width: 90%;
+  color: #f5a623;
 }
 
 .description {
