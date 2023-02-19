@@ -23,14 +23,14 @@ export default function ProjectModal(props) {
         <div className="store-buttons">
           <a href={props.googlePlayUrl} target="_blank" rel="noreferrer">
             <img
-              src="https://lh3.googleusercontent.com/q1k2l5CwMV31JdDXcpN4Ey7O43PxnjAuZBTmcHEwQxVuv_2wCE2gAAQMWxwNUC2FYEOnYgFPOpw6kmHJWuEGeIBLTj9CuxcOEeU8UXyzWJq4NJM3lg=s0"
+              src="/images/google-play-badge.png"
               alt=""
               className="store-button-google"
             />
           </a>
           <a href={props.appStoreUrl} target="_blank" rel="noreferrer">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1200px-Download_on_the_App_Store_Badge.svg.png"
+              src="/images/appstore.svg"
               alt=""
               className="store-button-apple"
             />

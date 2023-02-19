@@ -8,9 +8,14 @@ export default function Games() {
   return (
     <motion.div
       className="games"
-      initial={{ opacity: 0, scale: 0, y: 100 }}
-      animate={{ opacity: 1, scale: 1, y: 0 }}
-      exit={{ opacity: 0, scale: 0, y: -100, transition: { duration: 0.1 } }}
+      initial={{ opacity: 0 }}
+      animate={{ width: "100%", opacity: 1 }}
+      exit={{
+        x: "-100vw",
+        opacity: 1,
+        scale: 0,
+        transition: { duration: 0.3 },
+      }}
     >
       <h1 className="hello">Games</h1>
       <p className="description">
