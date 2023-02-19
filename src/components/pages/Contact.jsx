@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import ContactItem from "../views/ContactItem";
 
 export default function Contact() {
   return (
@@ -13,7 +14,16 @@ export default function Contact() {
         transition: { duration: 0.3 },
       }}
     >
-      <h1>Will be updated</h1>
+      <h1>Let's get in touch!</h1>
+      <p>
+        Feel free to contact me about any opportunity, or just to chat about
+        gamedev, coding or anything else :)
+      </p>
+      <div className="contact-items">
+        <ContactItem />
+        <ContactItem />
+        <ContactItem />
+      </div>
     </motion.div>
   );
 }
