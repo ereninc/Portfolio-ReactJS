@@ -14,8 +14,8 @@ export default function Resume() {
         transition: { duration: 0.3 },
       }}
     >
-      <h1 className="page-title">Resume</h1>
       <div className="resume">
+        <h1 className="page-title">Resume</h1>
         <div className="content">
           <div className="aboutme-section">
             <div className="text-section">
@@ -173,25 +173,11 @@ export default function Resume() {
             <h2 className="title">Education</h2>
             <div className="education-item">
               <h3 className="school">Sakarya University</h3>
-              <h4 className="date">Jan 2021 - October 2022</h4>
-              <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Nesciunt reprehenderit amet voluptas, aut nemo harum sunt
-                accusantium facere repellat tempore non aliquam corporis in
-              </p>
-            </div>
-            <div className="education-item">
-              <h3 className="school">School Name</h3>
-              <h4 className="date">Jan 2021 - October 2022</h4>
-              <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Nesciunt reprehenderit amet voluptas, aut nemo harum sunt
-                accusantium facere repellat tempore non aliquam corporis in
-              </p>
-            </div>
-            <div className="education-item">
-              <h3 className="school">School Name</h3>
-              <h4 className="date">Jan 2021 - October 2022</h4>
+              <div className="info">
+                <h4 className="degree">Computer Engineering</h4>
+                {" - "}
+                <h5 className="date dark-highlight">Jan 2021 - October 2022</h5>
+              </div>
               <p className="desc">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Nesciunt reprehenderit amet voluptas, aut nemo harum sunt
@@ -201,7 +187,7 @@ export default function Resume() {
           </div>
 
           <div className="besides">
-            <h2 className="title">Besides Coding</h2>
+            <h2 className="title">Besides...</h2>
             <div className="activity-item">
               <h3 className="activity-name">Music</h3>
               <p className="activity">I love making music.</p>
