@@ -34,7 +34,7 @@ export default function Resume() {
 
               <div className="download-section">
                 <a
-                  href="/resume.pdf"
+                  href="/CV_Eren İnancı.pdf"
                   // download="Eren_Inanci_Resume.pdf"
                   className="download-btn"
                   target="_blank"
