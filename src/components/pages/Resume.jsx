@@ -34,9 +34,12 @@ export default function Resume() {
 
               <div className="download-section">
                 <a
-                  href="/files/resume.pdf"
-                  download="Eren_Inanci_Resume.pdf"
+                  href="/resume.pdf"
+                  // download="Eren_Inanci_Resume.pdf"
                   className="download-btn"
+                  target="_blank"
+                  rel="noreferrer"
+                  title="Resume"
                 >
                   <i className="fas fa-download"></i>Download as PDF
                 </a>
@@ -164,17 +167,17 @@ export default function Resume() {
                 </h5>
               </div>
               <p className="desc">
-                I studied computer engineering at Sakarya University. I learned
-                a lot about computer science and engineering such as data
-                structures, algorithms, computer architecture, operating
+                I studied computer engineering at Sakarya University. <br></br>I
+                learned a lot about computer science and engineering such as
+                data structures, algorithms, computer architecture, operating
                 systems, databases, computer networks, software engineering,
                 etc. I also learned about web development, and I learned about
-                HTML, CSS, Javascript. I learned about the basics of game
-                development, I've decided to be a game developer at my senior
-                year and developed 12 games at before I got the Junior Game
-                Developer job at Cube Games. I've joined Game Development/Design
-                club and got to met one of the most successful Turkish game
-                developers.
+                HTML, CSS, Javascript. <br></br>
+                <br></br> I learned about the basics of game development, I've
+                decided to be a game developer at my senior year and developed
+                12 games before I got the Junior Game Developer job at Cube
+                Games. I've joined Game Development/Design club and got to met
+                one of the most successful Turkish game developers.
               </p>
             </div>
           </div>
