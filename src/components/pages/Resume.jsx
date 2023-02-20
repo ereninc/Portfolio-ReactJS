@@ -20,27 +20,16 @@ export default function Resume() {
           <div className="aboutme-section">
             <div className="text-section">
               <p className="small-desc">
-                <span className="highlight">Lorem ipsum dolor</span> sit amet
-                consectetur adipisicing elit. Laborum repellat asperiores
-                incidunt ipsam esse{" "}
-                <a
-                  className="desc-link"
-                  href="www.google.com"
-                  target="_blank"
-                  rel="noreference"
-                >
-                  totam fugit ea facere
-                </a>{" "}
-                eaque optio nam nobis, impedit voluptate, quis commodi molestias
-                error repellendus minus? Accusamus adipisci aliquid incidunt
-                odit officiis qui labore dolor eligendi hic ea provident
-                assumenda eveniet omnis debitis cumque, natus corrupti! Corporis
-                omnis mollitia, adipisci sapiente corrupti quibusdam nobis
-                voluptatibus dolor. Deserunt ullam corrupti tempora commodi
-                voluptate officia voluptatibus dicta, rem cupiditate, quaerat
-                quisquam molestiae. Consequatur enim nam, amet accusamus
-                corrupti quos fugit atque autem. Hic exercitationem facilis
-                natus explicabo aliquam.
+                I'm a game developer and a web developer. I've worked as a Game
+                Developer for 2 years in Mobile game industry. Now I'm working
+                on my own pc games and I'm also working as a Freelance Front-End
+                Developer in Istanbul, Turkey.
+                <br></br>
+                <br></br>I am currently looking for a job as a Game Developer or
+                Front-End Developer.
+                <br></br>
+                <br></br> I'm also a musician, I play couple instruments such as
+                guitar, piano, drums, bass.
               </p>
 
               <div className="download-section">
@@ -49,7 +38,7 @@ export default function Resume() {
                   download="Eren_Inanci_Resume.pdf"
                   className="download-btn"
                 >
-                  Download as PDF
+                  <i className="fas fa-download"></i>Download as PDF
                 </a>
               </div>
             </div>
@@ -65,32 +54,29 @@ export default function Resume() {
           <div className="work-experiences">
             <h2 className="title">Work Experiences</h2>
             <div className="work-experience-item">
-              <h3 className="company">Company Name</h3>
-              <h4 className="date">Jan 2021 - October 2022</h4>
+              <h3 className="company">OGO Play - Game Developer</h3>
+              <h4 className="date">December 2022 - January 2023</h4>
               <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Nesciunt reprehenderit amet voluptas, aut nemo harum sunt
-                accusantium facere repellat tempore non aliquam corporis in
-                quod! Ratione quisquam quae quis explicabo. Aliquam soluta
-                quisquam aspernatur magnam doloremque ex dolore possimus
-                molestias maiores quo cupiditate facere explicabo amet quod
-                beatae sunt, illo fugiat! Debitis in quos nostrum quisquam quae,
-                cupiditate dolores fugiat.
+                Worked in a small team of 3 people to develop a mobile game. I
+                was responsible for the game's UI and UX, as well as the game's
+                core mechanics. I also worked on the game's sound design. I used
+                Unity and C# for the development. I used Reaper DAW to create
+                the game's sound effects and music.
               </p>
             </div>
 
             <div className="work-experience-item">
-              <h3 className="company">Company Name</h3>
+              <h3 className="company">Cube Games - Game Developer</h3>
               <h4 className="date">Jan 2021 - October 2022</h4>
               <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Nesciunt reprehenderit amet voluptas, aut nemo harum sunt
-                accusantium facere repellat tempore non aliquam corporis in
-                quod! Ratione quisquam quae quis explicabo. Aliquam soluta
-                quisquam aspernatur magnam doloremque ex dolore possimus
-                molestias maiores quo cupiditate facere explicabo amet quod
-                beatae sunt, illo fugiat! Debitis in quos nostrum quisquam quae,
-                cupiditate dolores fugiat.
+                Started as a junior game developer, and then became a mid-level
+                game developer. I worked on a variety of projects, I was
+                responsible for the game's UI and UX, as well as the game's core
+                mechanics. I used Unity and C# for the development. It was super
+                developmental process for me. I learned a lot about game
+                development and I had a lot of fun. I worked on custom shaders,
+                particle systems, a little bit of mesh generation and
+                deformation.
               </p>
             </div>
           </div>
@@ -161,9 +147,6 @@ export default function Resume() {
                   <div className="skill-item">
                     <p>React</p>
                   </div>
-                  <div className="skill-item">
-                    <p>Tailwind CSS</p>
-                  </div>
                 </div>
               </div>
             </div>
@@ -176,12 +159,22 @@ export default function Resume() {
               <div className="info">
                 <h4 className="degree">Computer Engineering</h4>
                 {" - "}
-                <h5 className="date dark-highlight">Jan 2021 - October 2022</h5>
+                <h5 className="date dark-highlight">
+                  September 2018 - June 2021
+                </h5>
               </div>
               <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Nesciunt reprehenderit amet voluptas, aut nemo harum sunt
-                accusantium facere repellat tempore non aliquam corporis in
+                I studied computer engineering at Sakarya University. I learned
+                a lot about computer science and engineering such as data
+                structures, algorithms, computer architecture, operating
+                systems, databases, computer networks, software engineering,
+                etc. I also learned about web development, and I learned about
+                HTML, CSS, Javascript. I learned about the basics of game
+                development, I've decided to be a game developer at my senior
+                year and developed 12 games at before I got the Junior Game
+                Developer job at Cube Games. I've joined Game Development/Design
+                club and got to met one of the most successful Turkish game
+                developers.
               </p>
             </div>
           </div>
@@ -190,11 +183,27 @@ export default function Resume() {
             <h2 className="title">Besides...</h2>
             <div className="activity-item">
               <h3 className="activity-name">Music</h3>
-              <p className="activity">I love making music.</p>
+              <p className="activity">
+                I play guitar and midi controller, I use them for creating music
+                for my games.
+              </p>
             </div>
             <div className="activity-item">
-              <h3 className="activity-name">Painting</h3>
-              <p className="activity">I love painting.</p>
+              <h3 className="activity-name">Books</h3>
+              <p className="activity">LOTR geek, Witcher series enjoyer.</p>
+            </div>
+            <div className="activity-item">
+              <h3 className="activity-name">Games</h3>
+              <p className="activity">
+                Alan Wake is my favorite game of all time. And second is Wicher
+                3.
+              </p>
+            </div>
+            <div className="activity-item">
+              <h3 className="activity-name">Learning</h3>
+              <p className="activity">
+                I enjoy learning new stuff, mostly tech stuff.
+              </p>
             </div>
           </div>
         </div>

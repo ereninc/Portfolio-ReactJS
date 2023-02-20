@@ -71,12 +71,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 4px;
+  gap: 24px;
   font-size: 24px;
   margin-right: 16px;
   color: white;
   font-weight: 600;
   transition: 300ms ease-in-out;
+}
+
+.fa-download {
+  opacity: 0.5;
 }
 
 .download-btn:hover {
@@ -205,6 +209,11 @@
   align-items: center;
 }
 
+.desc {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
 /* BESIDES SECTION */
 
 .besides {
@@ -228,5 +237,6 @@
 }
 
 .activity {
-  font-size: 24px;
+  font-size: 18px;
+  opacity: 0.8;
 }
