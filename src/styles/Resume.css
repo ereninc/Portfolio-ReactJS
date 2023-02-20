@@ -10,7 +10,11 @@
 }
 
 .page-title {
-  margin-top: 100px;
+  margin-top: 104px;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 24px;
+  width: 90%;
   color: #f5a623;
 }
 

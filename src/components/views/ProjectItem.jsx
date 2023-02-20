@@ -8,9 +8,11 @@ export default function ProjectItem(props) {
         onClick={props.onClick}
         className="project-item"
         style={{
-          backgroundImage: `url(images/games/${props.url})`,
+          backgroundImage: `url(images/${props.url})`,
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
+          width: `${props.width}`,
+          height: `${props.height}`,
         }}
       >
         <div

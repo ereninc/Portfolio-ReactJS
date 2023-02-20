@@ -2,7 +2,7 @@
   {
     "title": "Pirate Bay",
     "description": "Unfortunatelly studio had to close down before i finished it. It was a hybrid casual game with an (almost)open world, islands, ship markets, crew markets and pirate fights.",
-    "url": "/pirate/1.png",
+    "url": "games/pirate/1.png",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/pirate/4.png",
     "secondImage": "./images/games/pirate/5.png",
@@ -12,7 +12,7 @@
   {
     "title": "Coin Breaker",
     "description": "Published by Cube Games, you had to break stacked coins. Coins are only breakable if they are in the same color. You can also upgrade cannons to make them more powerful.",
-    "url": "/coin/6.jpg",
+    "url": "games/coin/6.jpg",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/coin/5.jpg",
     "secondImage": "./images/games/coin/1.jpg",
@@ -22,7 +22,7 @@
   {
     "title": "Arrow Team",
     "description": "It wasa grid base merge game, you have to buy and place units to defend your base. You can also upgrade your units.",
-    "url": "/arrowTeam/5.jpg",
+    "url": "games/arrowTeam/5.jpg",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/arrowTeam/1.jpg",
     "secondImage": "./images/games/arrowTeam/3.jpg",
@@ -32,7 +32,7 @@
   {
     "title": "Melt Master",
     "description": "Made with mesh generation and deformation, you had to break ice blocks to reach the goal. You can also upgrade your tools to make them more powerful.",
-    "url": "meltMaster/2.jpg",
+    "url": "games/meltMaster/2.jpg",
     "bgColor": "rgba(146, 52, 158, 0.8)",
     "firstImage": "./images/games/meltMaster/1.jpg",
     "secondImage": "./images/games/meltMaster/5.jpg",
@@ -42,7 +42,7 @@
   {
     "title": "Match The Color Ball",
     "description": "You have to match the color of the ball with the color of the platform. You can also upgrade your ball to make it more powerful.",
-    "url": "match/6.png",
+    "url": "games/match/6.png",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/match/1.jpg",
     "secondImage": "./images/games/match/4.jpg",
@@ -52,7 +52,7 @@
   {
     "title": "Money Up",
     "description": "Simple runner-like game, you have to collect moneys to level up and merge money bags. You can also upgrade your character to start higher level.",
-    "url": "moneyUp/1.jpg",
+    "url": "games/moneyUp/1.jpg",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/moneyUp/5.jpg",
     "secondImage": "./images/games/moneyUp/3.jpg",
@@ -62,7 +62,7 @@
   {
     "title": "Slingshot Race",
     "description": "Drag your car to throw it, you can merge other cars to make your car more powerful. You can also upgrade your car to make it more powerful.",
-    "url": "slingShot/3.jpg",
+    "url": "games/slingShot/3.jpg",
     "bgColor": "rgba(48, 48, 48, 0.8)",
     "firstImage": "./images/games/slingShot/1.jpg",
     "secondImage": "./images/games/slingShot/3.jpg",
@@ -72,7 +72,7 @@
   {
     "title": "Bikini Evolution",
     "description": "A game about bikinis. Go through year doors and level up your bikini.",
-    "url": "/bikini/1.jpg",
+    "url": "games/bikini/1.jpg",
     "bgColor": "rgba(52, 158, 100, 0.8)",
     "firstImage": "./images/games/bikini/4.jpg",
     "secondImage": "./images/games/bikini/3.jpg",
@@ -82,7 +82,7 @@
   {
     "title": "Bizarre Cocktail",
     "description": "Try to make most disgusting cocktail. At the end of the level, a character tries to drink it, if he can't drink it, you win.",
-    "url": "/bizarre/2.jpg",
+    "url": "games/bizarre/2.jpg",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/bizarre/2.jpg",
     "secondImage": "./images/games/bizarre/5.jpg",
@@ -92,7 +92,7 @@
   {
     "title": "Rich Rush",
     "description": "An endless runner game, collect coins to get more bullet, avoid enemies and obstacles.",
-    "url": "/Rich/4.jpg",
+    "url": "games/Rich/4.jpg",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/Rich/2.jpg",
     "secondImage": "./images/games/Rich/3.jpg",
@@ -102,7 +102,7 @@
   {
     "title": "Drag King",
     "description": "A racing game, collect moneys and buy much better car parts. Race your opponent at the end of the level.",
-    "url": "/drag/1.jpg",
+    "url": "games/drag/1.jpg",
     "bgColor": "rgba(146, 52, 158, 0.8)",
     "firstImage": "./images/games/drag/5.jpg",
     "secondImage": "./images/games/drag/3.jpg",
@@ -112,7 +112,7 @@
   {
     "title": "Dribbling Master",
     "description": "Dribble and shoot the ball to the basket. Avoid enemy team and get more points. You will slamdunk the ball at the end of the level.",
-    "url": "/dirbbling/2.jpg",
+    "url": "games/dirbbling/2.jpg",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/dirbbling/1.jpg",
     "secondImage": "./images/games/dirbbling/2.jpg",
@@ -122,7 +122,7 @@
   {
     "title": "Phonecase Evolution",
     "description": "Collect phones, get them case, paint them and avoid obstacles. Bring more phones to the end of the level to get more points.",
-    "url": "/phone/3.jpg",
+    "url": "games/phone/3.jpg",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/phone/4.jpg",
     "secondImage": "./images/games/phone/5.jpg",
@@ -132,7 +132,7 @@
   {
     "title": "Mr. Fang",
     "description": "You are a vampire lord and gathering your army. You are fighting werewolf boss at the end of every 2 level. Collect humans and turn them into vampires, transform bats and fly over obstacles!",
-    "url": "/fang/1.jpg",
+    "url": "games/fang/1.jpg",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/fang/3.jpg",
     "secondImage": "./images/games/fang/4.jpg",
@@ -142,7 +142,7 @@
   {
     "title": "The Word",
     "description": "A Quiz game about music. You have to guess 3 questions to get turn all the judges.",
-    "url": "/word/1.jpg",
+    "url": "games/word/1.jpg",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/word/2.jpg",
     "secondImage": "./images/games/word/3.jpg",
@@ -152,7 +152,7 @@
   {
     "title": "Lens Runner",
     "description": "Avoid obstacless and collect lens to see much clearer and of the level.",
-    "url": "/lens/1.jpg",
+    "url": "games/lens/1.jpg",
     "bgColor": "rgb(45, 164, 98, 0.35)",
     "firstImage": "./images/games/lens/1.jpg",
     "secondImage": "./images/games/lens/2.jpg",
@@ -162,7 +162,7 @@
   {
     "title": "Salad Party!",
     "description": "Kill vegetables with a razor gun and make a salad with them.",
-    "url": "/salad/1.jpg",
+    "url": "games/salad/1.jpg",
     "bgColor": "rgba(146, 52, 158, 0.8)",
     "firstImage": "./images/games/salad/2.jpg",
     "secondImage": "./images/games/salad/4.jpg",
@@ -172,7 +172,7 @@
   {
     "title": "The Office",
     "description": "A slingshot game with The Office characters. Drag the character to the slingshot and release to shoot.",
-    "url": "/office/1.jpg",
+    "url": "games/office/1.jpg",
     "bgColor": "rgba(52, 158, 100, 0.8)",
     "firstImage": "./images/games/office/2.jpg",
     "secondImage": "./images/games/office/3.jpg",
@@ -182,7 +182,7 @@
   {
     "title": "Jevelry Run",
     "description": "Collect beads to make your bracelet. Avoid the obstacles and collect the beads. Rope was a mesh.",
-    "url": "/jevelrun/1.jpg",
+    "url": "games/jevelrun/1.jpg",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/jevelrun/2.jpg",
     "secondImage": "./images/games/jevelrun/3.jpg",

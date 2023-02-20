@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles/Games.css";
-import ProjectList from "../views/ProjectList";
+import GameList from "../views/GameList";
 import gameData from "../../data/gameData.json";
 import { motion } from "framer-motion";
 
@@ -27,7 +27,7 @@ export default function Games() {
         some are still in development, and some are just prototypes.
         Chronologically newest to oldest.
       </p>
-      <ProjectList projects={gameData} modalState={false} />
+      <GameList projects={gameData} modalState={false} />
 
       <p className="footer-text">
         More on "

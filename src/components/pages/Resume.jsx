@@ -29,7 +29,7 @@ export default function Resume() {
                 Front-End Developer.
                 <br></br>
                 <br></br> I'm also a musician, I play couple instruments such as
-                guitar, piano, drums, bass.
+                guitar, midi controller, bass.
               </p>
 
               <div className="download-section">

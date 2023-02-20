@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Today I Learned",
+    "description": "Full stack react-app, used Supabase as a backend, and deployed on Netlify.",
+    "url": "/webApps/til-app/til-app.gif",
+    "bgColor": "rgba(52, 156, 158, 0.8)",
+    "firstImage": "./images/webApps/til-app/1.png",
+    "secondImage": "./images/webApps/til-app/2.png",
+    "githubLink": "https://github.com/ereninc/TiL-App-ReactJS-SupabaseDB",
+    "webPlatformLink": "https://today-i-learned-exwitcher.netlify.app/"
+  },
+  {
+    "title": "Forkify App",
+    "description": "Biggest project so far, worked on modules, built on MVC architecture, a deeper object-oriented with base classes, fetching and uploading data with Forkify API, updating dom with much better algorithm (it is like react, only updates the element when it is going to change). Built with parcel and published on Netlify with continuous deployment. Learned lot of things about MVC, which made great sense to me.",
+    "url": "/webApps/forkify-app/forkify-app.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/forkify-app/3.png",
+    "secondImage": "./images/webApps/forkify-app/4.png",
+    "githubLink": "https://github.com/ereninc/Forkify-App",
+    "webPlatformLink": "https://forkify-app-exwitcher.netlify.app/"
+  }
+]

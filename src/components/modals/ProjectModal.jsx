@@ -3,6 +3,8 @@ import "../../styles/modals/ProjectModal.css";
 
 export default function ProjectModal(props) {
   let className = props.active ? "project-modal" : "project-modal.closed";
+  let modalType = props.type;
+
   function handleClick() {
     props.setModalActive(false);
   }
@@ -20,34 +22,64 @@ export default function ProjectModal(props) {
       </div>
       <div className="project-modal-container">
         <p className="modal-description">{props.description}</p>
-        <div className="store-buttons">
-          <a href={props.googlePlayUrl} target="_blank" rel="noreferrer">
-            <img
-              src="/images/google-play-badge.png"
-              alt=""
-              className="store-button-google"
-            />
-          </a>
-          <a href={props.appStoreUrl} target="_blank" rel="noreferrer">
-            <img
-              src="/images/appstore.svg"
-              alt=""
-              className="store-button-apple"
-            />
-          </a>
-        </div>
+        {modalType === "webapp" ? (
+          <div className="web-platform-links">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href={props.githubLink}
+              className="check onGithub"
+            >
+              Check On Github!
+            </a>
+            <a
+              href={props.webPlatformLink}
+              target="_blank"
+              rel="noreferrer"
+              className="check onNetlify"
+            >
+              Check On Netlify!
+            </a>
+          </div>
+        ) : (
+          <div className="store-buttons">
+            <a href={props.googlePlayUrl} target="_blank" rel="noreferrer">
+              <img
+                src="/images/google-play-badge.png"
+                alt="Google Play Badge"
+                className="store-button-google"
+              />
+            </a>
+            <a href={props.appStoreUrl} target="_blank" rel="noreferrer">
+              <img
+                src="/images/appstore.svg"
+                alt="App Store Badge"
+                className="store-button-apple"
+              />
+            </a>
+          </div>
+        )}
+
         <div className="image-gallery">
           <img
             className="gallery-image"
             src={props.firstImage}
             alt="my pixelated face"
-            style={{ border: `2px solid ${props.bgColor}` }}
+            style={{
+              border: `2px solid ${props.bgColor}`,
+              width: `${props.width}`,
+              height: `${props.height}`,
+            }}
           />
           <img
             className="gallery-image"
             src={props.secondImage}
             alt="my pixelated face"
-            style={{ border: `2px solid ${props.bgColor}` }}
+            style={{
+              border: `2px solid ${props.bgColor}`,
+              width: `${props.width}`,
+              height: `${props.height}`,
+            }}
           />
         </div>
       </div>
