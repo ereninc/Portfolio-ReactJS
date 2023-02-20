@@ -26,6 +26,7 @@ export default function Footer() {
             >
               Eren İnancı
             </a>
+            , made with ReactJS
           </span>
         </p>
       </div>
