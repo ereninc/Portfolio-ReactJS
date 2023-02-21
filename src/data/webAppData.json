@@ -7,16 +7,146 @@
     "firstImage": "./images/webApps/til-app/1.png",
     "secondImage": "./images/webApps/til-app/2.png",
     "githubLink": "https://github.com/ereninc/TiL-App-ReactJS-SupabaseDB",
-    "webPlatformLink": "https://today-i-learned-exwitcher.netlify.app/"
+    "webPlatformLink": "https://today-i-learned-exwitcher.netlify.app/",
+    "type": "react"
   },
   {
     "title": "Forkify App",
-    "description": "Biggest project so far, worked on modules, built on MVC architecture, a deeper object-oriented with base classes, fetching and uploading data with Forkify API, updating dom with much better algorithm (it is like react, only updates the element when it is going to change). Built with parcel and published on Netlify with continuous deployment. Learned lot of things about MVC, which made great sense to me.",
+    "description": "Biggest project so far (VanillaJS), worked on modules, built on MVC architecture, a deeper object-oriented with base classes, fetching and uploading data with Forkify API, updating dom with much better algorithm (it is like react, only updates the element when it is going to change). Built with parcel and published on Netlify with continuous deployment. Learned lot of things about MVC, which made great sense to me.",
     "url": "/webApps/forkify-app/forkify-app.gif",
-    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/webApps/forkify-app/3.png",
     "secondImage": "./images/webApps/forkify-app/4.png",
     "githubLink": "https://github.com/ereninc/Forkify-App",
     "webPlatformLink": "https://forkify-app-exwitcher.netlify.app/"
+  },
+  {
+    "title": "Pokedex App",
+    "description": "Simple Pokedex app shows pokemons and their stats. Pokemon data fetched with API. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
+    "url": "/webApps/pokedex/pokedex.gif",
+    "bgColor": "rgba(52, 68, 158, 0.8)",
+    "firstImage": "./images/webApps/pokedex/1.png",
+    "secondImage": "./images/webApps/pokedex/2.png",
+    "githubLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Mapty Project",
+    "description": "App for nature events like todo list with Leaflet API (VanillaJS)",
+    "url": "/webApps/mapty/leaflet.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/mapty/1.png",
+    "secondImage": "./images/webApps/mapty/2.png",
+    "githubLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI",
+    "webPlatformLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI"
+  },
+  {
+    "title": "Light Out Game",
+    "description": "Lights out game with ReactJS, used useState and useEffect hooks. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
+    "url": "/webApps/light/light.gif",
+    "bgColor": "rgba(158, 73, 52, 0.8)",
+    "firstImage": "./images/webApps/light/1.png",
+    "secondImage": "./images/webApps/light/2.png",
+    "githubLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Dad Jokes App",
+    "description": "Simple API call app. Used 2 components, Joke and JokeList. First i make a call to that api: https://icanhazdadjoke.com/ As a respond i get a JSON of joke which has, ID, Joke and status value. I convert them into object and store into state array. First, got 10 jokes If we click joke button we get another joke with another call. If its duplicate joke it is not shown in jokelist component. Controlled with Set data structure.",
+    "url": "/webApps/jokes/jokes.gif",
+    "bgColor": "rgba(52, 156, 158, 0.8)",
+    "firstImage": "./images/webApps/jokes/1.png",
+    "secondImage": "./images/webApps/jokes/2.png",
+    "githubLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
+    "webPlatformLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
+    "type": "react"
+  },
+  {
+    "title": "Card Dealer Project",
+    "description": "Simple app with Axios. Card data fetched with that api: https://deckofcardsapi.com api/deck/new/shuffle/ First I did a axios call using that URL to generate deck_id, Then I used that deck_id for getting card data. Each button click is a request via axios. That call's respond is a random card data. https://deckofcardsapi.com/api/deck/${deck_id}/draw/",
+    "url": "/webApps/card/card.gif",
+    "bgColor": "rgba(48, 48, 48, 0.8)",
+    "firstImage": "./images/webApps/card/1.png",
+    "secondImage": "./images/webApps/card/2.png",
+    "githubLink": "https://github.com/ereninc/Card-Dealer-ReactJS--Axios-",
+    "webPlatformLink": "https://github.com/ereninc/Card-Dealer-ReactJS--Axios-",
+    "type": "react"
+  },
+  {
+    "title": "Budget App",
+    "description": "Budget app with income and expense, percentage, and more. Used React and Bootstrap",
+    "url": "/webApps/budget/budget.gif",
+    "bgColor": "rgba(52, 68, 158, 0.8)",
+    "firstImage": "./images/webApps/budget/1.png",
+    "secondImage": "./images/webApps/budget/2.png",
+    "githubLink": "https://github.com/ereninc/Budget-App-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Budget-App-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Bankist App",
+    "description": "Banking app with login, transfer, loan, close account, sort, filter, and more. (VanillaJS)",
+    "url": "/webApps/bankist-app/bankist.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/bankist-app/6.png",
+    "secondImage": "./images/webApps/bankist-app/7.png",
+    "githubLink": "https://github.com/ereninc/Bankist-App-Logic",
+    "webPlatformLink": "https://github.com/ereninc/Bankist-App-Logic"
+  },
+  {
+    "title": "Hangman App",
+    "description": "Simple implementation of Hangman game, fun experience.",
+    "url": "/webApps/hang/hang.gif",
+    "bgColor": "rgba(52, 156, 158, 0.8)",
+    "firstImage": "./images/webApps/hang/1.png",
+    "secondImage": "./images/webApps/hang/2.png",
+    "githubLink": "https://github.com/ereninc/Hangman-Game-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Hangman-Game-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Colorbox Generator",
+    "description": "That app was super usefull for me to understand state arrays and updating state arrays. All the color data stored in colors(array) state in ColorArea component, then updated the indexes on ColorBox components onClick event. So colorbox component doesnt have color state, it passed with props. Used colors 'extended colors'",
+    "url": "/webApps/colorbox/colorbox.gif",
+    "bgColor": "rgba(158, 73, 52, 0.8)",
+    "firstImage": "./images/webApps/colorbox/1.png",
+    "secondImage": "./images/webApps/colorbox/2.png",
+    "githubLink": "https://github.com/ereninc/Color-Boxes-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Color-Boxes-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Roll a Dice App",
+    "description": "A simple implementation of state management; passing and setting state. Used external library for dice.",
+    "url": "/webApps/dice/dice.gif",
+    "bgColor": "rgba(48, 48, 48, 0.8)",
+    "firstImage": "./images/webApps/dice/1.png",
+    "secondImage": "./images/webApps/dice/2.png",
+    "githubLink": "https://github.com/ereninc/Roll-A-Dice-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Roll-A-Dice-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Flip a Coin",
+    "description": "A simple example for state, props, updating state and passing state through functions.",
+    "url": "/webApps/coin/coin.gif",
+    "bgColor": "rgba(52, 156, 158, 0.8)",
+    "firstImage": "./images/webApps/coin/1.png",
+    "secondImage": "./images/webApps/coin/2.png",
+    "githubLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
+    "type": "react"
+  },
+  {
+    "title": "Guess My Number",
+    "description": "My first finished JS app.",
+    "url": "/webApps/numberGuess/guessMyNumber.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/numberGuess/1.png",
+    "secondImage": "./images/webApps/numberGuess/2.png",
+    "githubLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS"
   }
 ]

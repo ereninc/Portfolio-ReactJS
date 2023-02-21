@@ -2,6 +2,8 @@ import React from "react";
 import "../../styles/project-items/ProjectItem.css";
 
 export default function ProjectItem(props) {
+  let itemType = props.type;
+
   return (
     <>
       <div
@@ -19,7 +21,14 @@ export default function ProjectItem(props) {
           className="project-item-title"
           style={{ backgroundColor: `${props.bgColor}` }}
         >
-          <h2>{props.title}</h2>
+          {itemType === "react" ? (
+            <h2>
+              {props.title}
+              <span className="react">ReactJS</span>
+            </h2>
+          ) : (
+            <h2>{props.title}</h2>
+          )}
         </div>
       </div>
     </>

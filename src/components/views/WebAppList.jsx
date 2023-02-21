@@ -34,7 +34,7 @@ export default function WebAppList(props) {
           secondImage={modalSecondImage}
           githubLink={modalGithubLink}
           webPlatformLink={modalWebPlatformLink}
-          width="500px"
+          width="570px"
           height="500px"
         />
       ) : (
@@ -48,8 +48,9 @@ export default function WebAppList(props) {
             url={project.url}
             alt={project.alt}
             bgColor={project.bgColor}
-            width="500px"
+            width="600px"
             height="500px"
+            type={project.type}
             onClick={() => {
               setModalTitle(project.title);
               setModalDescription(project.description);
