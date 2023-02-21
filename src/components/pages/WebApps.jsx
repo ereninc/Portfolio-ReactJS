@@ -26,7 +26,7 @@ export default function WebApps() {
             className="github"
             href="https://github.com/ereninc?tab=repositories"
             target="_blank"
-            rel="noreference"
+            rel="noreferrer"
           >
             my Github page.
           </a>
