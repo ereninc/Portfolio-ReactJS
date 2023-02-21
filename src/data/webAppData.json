@@ -1,7 +1,7 @@
 [
   {
     "title": "Resume",
-    "description": "I needed a personal website for project showcase and resume, decided to make my own instead of using a template. I've used react with some of React packages like react-router-dom.",
+    "description": "I needed a personal website for project showcase and resume, decided to make my own instead of using a template. I've used react with some of React packages like react-router-dom. I used different json files as data container for all the content like Games page, web apps page, resume page and modal's data.",
     "url": "/webApps/resume/resume.gif",
     "bgColor": "rgba(48, 48, 48, 0.8)",
     "firstImage": "./images/webApps/resume/1.png",

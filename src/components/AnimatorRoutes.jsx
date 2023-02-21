@@ -12,7 +12,7 @@ export default function AnimatorRoutes() {
   const location = useLocation();
 
   return (
-    <AnimatePresence exitBeforeEnter>
+    <AnimatePresence mode="wait">
       <Routes location={location} key={location.pathname}>
         <Route exact path="/" element={<AboutMe />} />
         <Route exact path="/games" element={<Games />} />
