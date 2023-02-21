@@ -1,5 +1,16 @@
 [
   {
+    "title": "Resume",
+    "description": "I needed a personal website for project showcase and resume, decided to make my own instead of using a template. I've used react with some of React packages like react-router-dom.",
+    "url": "/webApps/resume/resume.gif",
+    "bgColor": "rgba(48, 48, 48, 0.8)",
+    "firstImage": "./images/webApps/resume/1.png",
+    "secondImage": "./images/webApps/resume/2.png",
+    "githubLink": "https://github.com/ereninc/Portfolio-ReactJS",
+    "webPlatformLink": "https://ereninc.github.io/",
+    "type": "react"
+  },
+  {
     "title": "Today I Learned",
     "description": "Full stack react-app, used Supabase as a backend, and deployed on Netlify.",
     "url": "/webApps/til-app/til-app.gif",
