@@ -18,10 +18,9 @@ export default function WebApps() {
     >
       <h1 className="game">Web Projects</h1>
       <p className="description">
-        Web projects that I have made. I just wanted to show biggest projects,
-        for addition to that I have made dozens of landing pages, dashboard
-        pages, UI components. Most of them are ReactJS but couple of them
-        Vanilla JS. All publicly shared on{" "}
+        Web projects that I have made. Most of them are ReactJS but couple of
+        them Vanilla JS. Addition to them I have made dozens of landing pages,
+        dashboard pages, UI components. All publicly shared on{" "}
         <span>
           <a
             className="github"
