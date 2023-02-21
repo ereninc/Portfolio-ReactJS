@@ -53,17 +53,6 @@
     "webPlatformLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI"
   },
   {
-    "title": "Light Out Game",
-    "description": "Lights out game with ReactJS, used useState and useEffect hooks. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
-    "url": "/webApps/light/light.gif",
-    "bgColor": "rgba(158, 73, 52, 0.8)",
-    "firstImage": "./images/webApps/light/1.png",
-    "secondImage": "./images/webApps/light/2.png",
-    "githubLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
-    "webPlatformLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
-    "type": "react"
-  },
-  {
     "title": "Dad Jokes App",
     "description": "Simple API call app. Used 2 components, Joke and JokeList. First i make a call to that api: https://icanhazdadjoke.com/ As a respond i get a JSON of joke which has, ID, Joke and status value. I convert them into object and store into state array. First, got 10 jokes If we click joke button we get another joke with another call. If its duplicate joke it is not shown in jokelist component. Controlled with Set data structure.",
     "url": "/webApps/jokes/jokes.gif",
@@ -72,6 +61,17 @@
     "secondImage": "./images/webApps/jokes/2.png",
     "githubLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
     "webPlatformLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
+    "type": "react"
+  },
+  {
+    "title": "Light Out Game",
+    "description": "Lights out game with ReactJS, used useState and useEffect hooks. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
+    "url": "/webApps/light/light.gif",
+    "bgColor": "rgba(158, 73, 52, 0.8)",
+    "firstImage": "./images/webApps/light/1.png",
+    "secondImage": "./images/webApps/light/2.png",
+    "githubLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
     "type": "react"
   },
   {
