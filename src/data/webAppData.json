@@ -8,7 +8,7 @@
     "secondImage": "./images/webApps/resume/2.png",
     "githubLink": "https://github.com/ereninc/Portfolio-ReactJS",
     "webPlatformLink": "https://ereninc.github.io/",
-    "type": "react"
+    "type": ["ReactJS, Router, JSON"]
   },
   {
     "title": "Today I Learned",
@@ -19,7 +19,7 @@
     "secondImage": "./images/webApps/til-app/2.png",
     "githubLink": "https://github.com/ereninc/TiL-App-ReactJS-SupabaseDB",
     "webPlatformLink": "https://today-i-learned-exwitcher.netlify.app/",
-    "type": "react"
+    "type": ["ReactJS, Supabase, Netlify"]
   },
   {
     "title": "Forkify App",
@@ -29,7 +29,8 @@
     "firstImage": "./images/webApps/forkify-app/3.png",
     "secondImage": "./images/webApps/forkify-app/4.png",
     "githubLink": "https://github.com/ereninc/Forkify-App",
-    "webPlatformLink": "https://forkify-app-exwitcher.netlify.app/"
+    "webPlatformLink": "https://forkify-app-exwitcher.netlify.app/",
+    "type": ["VanillaJS, API, JSON, MVC, Parcel, Netlify"]
   },
   {
     "title": "Pokedex App",
@@ -40,7 +41,7 @@
     "secondImage": "./images/webApps/pokedex/2.png",
     "githubLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, API, JSON"]
   },
   {
     "title": "Mapty Project",
@@ -50,7 +51,8 @@
     "firstImage": "./images/webApps/mapty/1.png",
     "secondImage": "./images/webApps/mapty/2.png",
     "githubLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI",
-    "webPlatformLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI"
+    "webPlatformLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI",
+    "type": ["VanillaJS, LeafletAPI, JSON"]
   },
   {
     "title": "Dad Jokes App",
@@ -61,7 +63,7 @@
     "secondImage": "./images/webApps/jokes/2.png",
     "githubLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
     "webPlatformLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
-    "type": "react"
+    "type": ["ReactJS, API, JSON"]
   },
   {
     "title": "Light Out Game",
@@ -72,7 +74,7 @@
     "secondImage": "./images/webApps/light/2.png",
     "githubLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Lights-Out-Game-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, Hooks"]
   },
   {
     "title": "Card Dealer Project",
@@ -83,7 +85,7 @@
     "secondImage": "./images/webApps/card/2.png",
     "githubLink": "https://github.com/ereninc/Card-Dealer-ReactJS--Axios-",
     "webPlatformLink": "https://github.com/ereninc/Card-Dealer-ReactJS--Axios-",
-    "type": "react"
+    "type": ["ReactJS, API, JSON"]
   },
   {
     "title": "Budget App",
@@ -94,7 +96,7 @@
     "secondImage": "./images/webApps/budget/2.png",
     "githubLink": "https://github.com/ereninc/Budget-App-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Budget-App-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, Bootstrap, Hooks"]
   },
   {
     "title": "Bankist App",
@@ -104,7 +106,8 @@
     "firstImage": "./images/webApps/bankist-app/6.png",
     "secondImage": "./images/webApps/bankist-app/7.png",
     "githubLink": "https://github.com/ereninc/Bankist-App-Logic",
-    "webPlatformLink": "https://github.com/ereninc/Bankist-App-Logic"
+    "webPlatformLink": "https://github.com/ereninc/Bankist-App-Logic",
+    "type": ["VanillaJS"]
   },
   {
     "title": "Hangman App",
@@ -115,7 +118,7 @@
     "secondImage": "./images/webApps/hang/2.png",
     "githubLink": "https://github.com/ereninc/Hangman-Game-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Hangman-Game-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, Hooks"]
   },
   {
     "title": "Colorbox Generator",
@@ -126,7 +129,7 @@
     "secondImage": "./images/webApps/colorbox/2.png",
     "githubLink": "https://github.com/ereninc/Color-Boxes-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Color-Boxes-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, Hooks"]
   },
   {
     "title": "Roll a Dice App",
@@ -137,7 +140,7 @@
     "secondImage": "./images/webApps/dice/2.png",
     "githubLink": "https://github.com/ereninc/Roll-A-Dice-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Roll-A-Dice-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, Hooks"]
   },
   {
     "title": "Flip a Coin",
@@ -148,7 +151,7 @@
     "secondImage": "./images/webApps/coin/2.png",
     "githubLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
     "webPlatformLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
-    "type": "react"
+    "type": ["ReactJS, Hooks"]
   },
   {
     "title": "Guess My Number",
@@ -158,6 +161,7 @@
     "firstImage": "./images/webApps/numberGuess/1.png",
     "secondImage": "./images/webApps/numberGuess/2.png",
     "githubLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
-    "webPlatformLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS"
+    "webPlatformLink": "https://github.com/ereninc/Flip-A-Coin-ReactJS",
+    "type": ["VanillaJS"]
   }
 ]

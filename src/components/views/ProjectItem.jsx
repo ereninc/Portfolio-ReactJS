@@ -2,8 +2,8 @@ import React from "react";
 import "../../styles/project-items/ProjectItem.css";
 
 export default function ProjectItem(props) {
-  let itemType = props.type;
-
+  let itemType = props.type ? props.type : "";
+  console.log(itemType[0]);
   return (
     <>
       <div
@@ -21,10 +21,10 @@ export default function ProjectItem(props) {
           className="project-item-title"
           style={{ backgroundColor: `${props.bgColor}` }}
         >
-          {itemType === "react" ? (
+          {itemType.length > 0 ? (
             <h2>
               {props.title}
-              <span className="react">ReactJS</span>
+              <span className="react">{itemType}</span>
             </h2>
           ) : (
             <h2>{props.title}</h2>
