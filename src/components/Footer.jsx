@@ -8,7 +8,7 @@ export default function Footer() {
         <p>
           <span className="portfolio">
             <a
-              href="https://github.com/ereninc/ereninc.github.io"
+              href="https://github.com/ereninc/Portfolio-ReactJS"
               target="_blank"
               rel="noreferrer"
               className="portfolio-src"
@@ -26,7 +26,7 @@ export default function Footer() {
             >
               Eren İnancı
             </a>
-            , made with ReactJS
+            , made with <span className="highlight">ReactJS</span>
           </span>
         </p>
       </div>
