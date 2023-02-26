@@ -30,18 +30,7 @@
     "secondImage": "./images/webApps/forkify-app/4.png",
     "githubLink": "https://github.com/ereninc/Forkify-App",
     "webPlatformLink": "https://forkify-app-exwitcher.netlify.app/",
-    "type": ["VanillaJS, API, JSON, MVC, Parcel, Netlify"]
-  },
-  {
-    "title": "Pokedex App",
-    "description": "Simple Pokedex app shows pokemons and their stats. Pokemon data fetched with API. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
-    "url": "/webApps/pokedex/pokedex.gif",
-    "bgColor": "rgba(52, 68, 158, 0.8)",
-    "firstImage": "./images/webApps/pokedex/1.png",
-    "secondImage": "./images/webApps/pokedex/2.png",
-    "githubLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
-    "webPlatformLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
-    "type": ["ReactJS, API, JSON"]
+    "type": ["VanillaJS, ForkifyAPI, JSON, MVC, Parcel, Netlify"]
   },
   {
     "title": "Mapty Project",
@@ -55,6 +44,28 @@
     "type": ["VanillaJS, LeafletAPI, JSON"]
   },
   {
+    "title": "Interactive Conversation Project",
+    "description": "An interactive conversation app with reply to a comment, edit, delete, send reply features. Used context api for everywhere instead of prop drilling.",
+    "url": "/webApps/interactive-conv/conversation-app.gif",
+    "bgColor": "rgba(158, 73, 52, 0.8)",
+    "firstImage": "./images/webApps/interactive-conv/1.png",
+    "secondImage": "./images/webApps/interactive-conv/2.png",
+    "githubLink": "https://github.com/ereninc/Interactive-Comment-App-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Interactive-Comment-App-ReactJS",
+    "type": ["ReactJS, ContextAPI"]
+  },
+  {
+    "title": "Pokedex App",
+    "description": "Simple Pokedex app shows pokemons and their stats. Pokemon data fetched with API. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
+    "url": "/webApps/pokedex/pokedex.gif",
+    "bgColor": "rgba(52, 68, 158, 0.8)",
+    "firstImage": "./images/webApps/pokedex/1.png",
+    "secondImage": "./images/webApps/pokedex/2.png",
+    "githubLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Pokedex-App-ReactJS",
+    "type": ["ReactJS, PokedexAPI, JSON"]
+  },
+  {
     "title": "Dad Jokes App",
     "description": "Simple API call app. Used 2 components, Joke and JokeList. First i make a call to that api: https://icanhazdadjoke.com/ As a respond i get a JSON of joke which has, ID, Joke and status value. I convert them into object and store into state array. First, got 10 jokes If we click joke button we get another joke with another call. If its duplicate joke it is not shown in jokelist component. Controlled with Set data structure.",
     "url": "/webApps/jokes/jokes.gif",
@@ -63,7 +74,7 @@
     "secondImage": "./images/webApps/jokes/2.png",
     "githubLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
     "webPlatformLink": "https://github.com/ereninc/Dad-Jokes-ReactJS--Axios-",
-    "type": ["ReactJS, API, JSON"]
+    "type": ["ReactJS, DadJokesAPI, JSON"]
   },
   {
     "title": "Light Out Game",
@@ -85,7 +96,7 @@
     "secondImage": "./images/webApps/card/2.png",
     "githubLink": "https://github.com/ereninc/Card-Dealer-ReactJS--Axios-",
     "webPlatformLink": "https://github.com/ereninc/Card-Dealer-ReactJS--Axios-",
-    "type": ["ReactJS, API, JSON"]
+    "type": ["ReactJS, CardDeckAPI, JSON"]
   },
   {
     "title": "Budget App",
