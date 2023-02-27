@@ -77,6 +77,17 @@
     "type": ["ReactJS, DadJokesAPI, JSON"]
   },
   {
+    "title": "Task Manager App",
+    "description": "Simple app for routing, used react-router-dom. Used localStorage for storing data. Used loader and action functions at routed pages. Created 404 pages and Error handler elements. Build whole application on a Layout",
+    "url": "/webApps/task-app-router/task.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/task-app-router/1.png",
+    "secondImage": "./images/webApps/task-app-router/2.png",
+    "githubLink": "https://github.com/ereninc/Task-Manager-Dashboard-ReactJS",
+    "webPlatformLink": "https://github.com/ereninc/Task-Manager-Dashboard-ReactJS",
+    "type": ["ReactJS, Routing, Styled-Components"]
+  },
+  {
     "title": "Light Out Game",
     "description": "Lights out game with ReactJS, used useState and useEffect hooks. Learned much more about ReactJS and architecture. Exporting and importing modules are much clearer now.",
     "url": "/webApps/light/light.gif",
