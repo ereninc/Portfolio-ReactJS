@@ -44,6 +44,17 @@
     "type": ["VanillaJS, LeafletAPI, JSON"]
   },
   {
+    "title": "CRUD App",
+    "description": "Crud app with express Sending requests to server for CRUD functions, I have created API's for that.",
+    "url": "/webApps/crud-app/crud-app.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/crud-app/1.png",
+    "secondImage": "./images/webApps/crud-app/2.png",
+    "githubLink": "https://github.com/ereninc/",
+    "webPlatformLink": "https://github.com/ereninc/",
+    "type": ["ReactJS, ExpressJS, JSON"]
+  },
+  {
     "title": "Interactive Conversation Project",
     "description": "An interactive conversation app with reply to a comment, edit, delete, send reply features. Used context api for everywhere instead of prop drilling.",
     "url": "/webApps/interactive-conv/conversation-app.gif",
