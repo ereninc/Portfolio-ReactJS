@@ -11,6 +11,17 @@
     "type": ["ReactJS, Router, JSON"]
   },
   {
+    "title": "ex-POS App",
+    "description": "Full stack react-app, built with MERN Stack, you can create account, login, create products, buy products, create bills and print them. You can use username: 'test' and password: 'test' for try.",
+    "url": "/webApps/expos/expos.gif",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/webApps/expos/1.png",
+    "secondImage": "./images/webApps/expos/2.png",
+    "githubLink": "https://github.com/ereninc/Pos-App-with-MERN-Stack",
+    "webPlatformLink": "https://exw-pos-app.onrender.com/",
+    "type": ["MongoDB, ExpressJS, ReactJS, NodeJS"]
+  },
+  {
     "title": "Today I Learned",
     "description": "Full stack react-app, used Supabase as a backend, and deployed on Netlify.",
     "url": "/webApps/til-app/til-app.gif",
@@ -36,7 +47,7 @@
     "title": "Mapty Project",
     "description": "App for nature events like todo list with Leaflet API.",
     "url": "/webApps/mapty/leaflet.gif",
-    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/webApps/mapty/1.png",
     "secondImage": "./images/webApps/mapty/2.png",
     "githubLink": "https://github.com/ereninc/Mapty-Project-LeafletAPI",
