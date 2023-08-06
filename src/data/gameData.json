@@ -1,5 +1,35 @@
 [
   {
+    "title": "Seek & Shoot",
+    "description": "It was an Attack Hole style game, we had to find weapons and try to kill boss with them.",
+    "url": "games/ss/1.png",
+    "bgColor": "rgba(52, 156, 158, 0.8)",
+    "firstImage": "./images/games/ss/2.png",
+    "secondImage": "./images/games/ss/3.png",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
+  },
+  {
+    "title": "Nonstop Fight",
+    "description": "It was a cool dungeon crawler game.",
+    "url": "games/nf/1.png",
+    "bgColor": "rgba(52, 68, 158, 0.8)",
+    "firstImage": "./images/games/nf/2.png",
+    "secondImage": "./images/games/nf/3.png",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
+  },
+  {
+    "title": "Light Workers",
+    "description": "One of my favorite, was my first project in Hygge Studios.",
+    "url": "games/lw/1.png",
+    "bgColor": "rgba(158, 73, 52, 0.8)",
+    "firstImage": "./images/games/lw/2.png",
+    "secondImage": "./images/games/lw/3.png",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
+  },
+  {
     "title": "Pirate Bay",
     "description": "Unfortunatelly studio had to close down before i finished it. It was a hybrid casual game with an (almost)open world, islands, ship markets, crew markets and pirate fights.",
     "url": "games/pirate/1.png",
