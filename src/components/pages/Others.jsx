@@ -12,7 +12,17 @@ export default function Others() {
         transition: { duration: 0.3 },
       }}
     >
+      
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
       <h1>Will be updated</h1>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <p>Level Editors for game specific, variety of Shaders both HLSL and Shader graphs, misc. game systems such as Save System, Input System, Extension classes and Helpers.</p>
     </motion.div>
   );
 }

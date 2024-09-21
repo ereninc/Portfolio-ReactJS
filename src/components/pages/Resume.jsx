@@ -59,6 +59,13 @@ export default function Resume() {
           <div className="work-experiences">
             <h2 className="title">Work Experiences</h2>
             <WorkExperience
+              title="Hygge Studios - Game Developer"
+              date="March 2023 to Current"
+              desc="Small studio of 12 people in Estonia. Making Hybrid/Hyper casual games, 
+              working on games core mechanics, UI programming, Shader programming, CPI videos."
+            />
+
+            <WorkExperience
               title="OGOPlay Studio - Game Developer"
               date="December 2022 to January 2023"
               desc="Worked in a small team of 3 people to develop a mobile game. I was

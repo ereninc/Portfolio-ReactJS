@@ -1,37 +1,117 @@
-[
+[ 
+{
+	"title": "Grass Jam",
+	"description": "Puzzle!",
+	"url": "games/gj/3.png",
+	"bgColor": "rgba(146, 52, 158, 0.8)",
+	"firstImage": "./images/games/gj/1.png",
+	"secondImage": "./images/games/gj/2.png",
+	"googlePlayUrl": "",
+	"appStoreUrl": ""
+  },
+	{
+	"title": "Connect Army",
+	"description": "Strategy/ Match Puzzle!",
+	"url": "games/ca/0.png",
+	"bgColor": "rgba(52, 156, 158, 0.8)",
+	"firstImage": "./images/games/ca/1.png",
+	"secondImage": "./images/games/ca/2.png",
+	"googlePlayUrl": "",
+	"appStoreUrl": ""
+  },
+  {
+	"title": "Food Sort",
+	"description": "Cake Sort like puzzle game!",
+	"url": "games/fs/1.png",
+	"bgColor": "rgba(255, 89, 0, 0.8)",
+	"firstImage": "./images/games/fs/0.png",
+	"secondImage": "./images/games/fs/1.png",
+	"googlePlayUrl": "",
+	"appStoreUrl": ""
+  },
+  {
+	  "title": "Spin Shoot",
+	  "description": "Buy bullets, merge and place in your rotating platform. CPI moment was platform's rotate system, it rotates with your fire rate, slot moves up and bullet moves in your gun, then SHOOT!",
+	  "url": "games/sp/1.jpeg",
+	  "bgColor": "rgba(255, 89, 0, 0.8)",
+	  "firstImage": "./images/games/sp/3.jpeg",
+	  "secondImage": "./images/games/sp/2.jpeg",
+	  "googlePlayUrl": "",
+	  "appStoreUrl": ""
+  },
+  {
+    "title": "Crafted Weapon",
+    "description": "Break boxes, drop attachments and place them on your weapon. This game has an upgrade system and level editor.",
+    "url": "games/cw/1.jpeg",
+    "bgColor": "rgba(52, 68, 158, 0.8)",
+    "firstImage": "./images/games/cw/2.jpeg",
+    "secondImage": "./images/games/cw/3.jpeg",
+    "googlePlayUrl": "",
+    "appStoreUrl": ""
+  },
+  {
+    "title": "Digit Hero",
+    "description": "Classic shoot em up game. Nothing special.",
+    "url": "games/dh/1.png",
+    "bgColor": "rgba(146, 52, 158, 0.8)",
+    "firstImage": "./images/games/dh/2.png",
+    "secondImage": "./images/games/dh/3.png",
+    "googlePlayUrl": "https://apps.apple.com/us/app/digit-hero/id6458744437",
+    "appStoreUrl": "https://apps.apple.com/us/app/digit-hero/id6458744437"
+  },
+  {
+    "title": "D-Day Attack",
+    "description": "Biggest game I've ever done so far. It was an Action-Idle game, similar to Top Chart game Base Defense. Collect npc's train them as soldier or worker. Go attack and capture target. It has %50 retention and 40min playtime but high CPI sadly..",
+    "url": "games/dd/1.png",
+    "bgColor": "rgba(158, 73, 52, 0.8)",
+    "firstImage": "./images/games/dd/2.png",
+    "secondImage": "./images/games/dd/3.png",
+    "googlePlayUrl": "https://apps.apple.com/us/app/d-day-attack/id6450423859",
+    "appStoreUrl": "https://apps.apple.com/us/app/d-day-attack/id6450423859"
+  },
+  {
+    "title": "Space Conquer",
+    "description": "It has a similar system like Top Chart game Fight For America but space version. Build towers, kill alien waves and move forward.",
+    "url": "games/sc/1.png",
+    "bgColor": "rgba(255, 89, 0, 0.8)",
+    "firstImage": "./images/games/sc/2.png",
+    "secondImage": "./images/games/sc/3.png",
+    "googlePlayUrl": "https://apps.apple.com/us/app/space-conquer/id6448781478",
+    "appStoreUrl": "https://apps.apple.com/us/app/space-conquer/id6448781478"
+  },
   {
     "title": "Seek & Shoot",
-    "description": "It was an Attack Hole style game, we had to find weapons and try to kill boss with them.",
+    "description": "It was an Attack Hole style game, we had to find weapons and try to kill boss with them. Used custom handmade HLSL shader for scanning effect.",
     "url": "games/ss/1.png",
     "bgColor": "rgba(52, 156, 158, 0.8)",
     "firstImage": "./images/games/ss/2.png",
     "secondImage": "./images/games/ss/3.png",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/us/app/seek-shoot/id6449228816",
+    "appStoreUrl": "https://apps.apple.com/us/app/seek-shoot/id6449228816"
   },
   {
     "title": "Nonstop Fight",
-    "description": "It was a cool dungeon crawler game.",
+    "description": "It was a cool dungeon crawler game. Has skill and inventory system, enemy AI and Boss system.",
     "url": "games/nf/1.png",
     "bgColor": "rgba(52, 68, 158, 0.8)",
     "firstImage": "./images/games/nf/2.png",
     "secondImage": "./images/games/nf/3.png",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/us/app/nonstop-fight/id6448507060",
+    "appStoreUrl": "https://apps.apple.com/us/app/nonstop-fight/id6448507060"
   },
   {
     "title": "Light Workers",
-    "description": "One of my favorite, was my first project in Hygge Studios.",
+    "description": "One of my favorite, was my first project in Hygge Studios. Used obi rope for cable physics.",
     "url": "games/lw/1.png",
     "bgColor": "rgba(158, 73, 52, 0.8)",
     "firstImage": "./images/games/lw/2.png",
     "secondImage": "./images/games/lw/3.png",
-    "googlePlayUrl": "",
-    "appStoreUrl": ""
+    "googlePlayUrl": "https://apps.apple.com/us/app/light-workers/id1672243226",
+    "appStoreUrl": "https://apps.apple.com/us/app/light-workers/id1672243226"
   },
   {
     "title": "Pirate Bay",
-    "description": "Unfortunatelly studio had to close down before i finished it. It was a hybrid casual game with an (almost)open world, islands, ship markets, crew markets and pirate fights.",
+    "description": "Unfortunatelly studio had to close down before i finished it. It was a hybrid casual game with an (almost)open world, islands, ship markets, crew markets and pirate fights. It is not finished yet and probably never will",
     "url": "games/pirate/1.png",
     "bgColor": "rgba(255, 89, 0, 0.8)",
     "firstImage": "./images/games/pirate/4.png",

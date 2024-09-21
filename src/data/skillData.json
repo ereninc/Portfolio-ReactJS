@@ -1,8 +1,8 @@
 [
   {
     "lang": "C#,Javascript,C/C++",
-    "gamedev": "Unity,Blender,Photoshop,Reaper DAW",
+    "gamedev": "Unity,Blender,Photoshop,Reaper DAW,VContainer DI Framework",
     "tools": "Visual Studio,Visual Studio Code,GIT,Jira/Trello",
-    "web": "HTML,CSS,ReactJS"
+    "web": "HTML,CSS,ReactJS,Tailwind"
   }
 ]
