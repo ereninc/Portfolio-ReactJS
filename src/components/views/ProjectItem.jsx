@@ -13,6 +13,7 @@ export default function ProjectItem(props) {
           backgroundImage: `url(images/${props.url})`,
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
+          backgroundPosition: "center",  
           width: `${props.width}`,
           height: `${props.height}`,
         }}

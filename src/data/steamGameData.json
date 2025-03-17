@@ -1,0 +1,12 @@
+[ 
+  {
+	"title": "HEXAROMA: Village Builder",
+	"description": "Strategy - Colony Sim - Puzzle",
+	"url": "games/hexaroma/header.png",
+	"bgColor": "rgba(255, 89, 0, 0.8)",
+	"firstImage": "./images/games/hexaroma/1.png",
+	"secondImage": "./images/games/hexaroma/2.png",
+	"googlePlayUrl": "https://store.steampowered.com/app/3056580/HEXAROMA_Village_Builder/",
+	"appStoreUrl": "https://store.steampowered.com/app/3056580/HEXAROMA_Village_Builder/"
+  }
+]

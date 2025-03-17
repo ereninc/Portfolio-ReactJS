@@ -1,7 +1,9 @@
 import React from "react";
 import "../../styles/Games.css";
 import GameList from "../views/GameList";
+import SteamGameList from "../views/SteamGameList";
 import gameData from "../../data/gameData.json";
+import steamGameData from "../../data/steamGameData.json";
 import { motion } from "framer-motion";
 
 export default function Games() {
@@ -16,20 +18,19 @@ export default function Games() {
         transition: { duration: 0.3 },
       }}
     >
-      <h1 className="game">Games</h1>
+      <h1 className="game">About</h1>
+
       <p className="description">
-        I am a seasoned game developer with a track record of enhancing core mechanics, 
-        implementing and programming UIs, creating diverse visual effects, 
-        and crafting level editors. Additionally, I excel in producing compelling 
-        CPI videos and overseeing the seamless publication of games on various app stores. 
-        I developed all the games below while working professionally with Product Managers,
-        2D/3D Artists and Game Designers.
+      I am an experienced game developer specializing in core gameplay mechanics, UI implementation, visual effects, and level editor development. 
+      In addition to refining game systems, I have expertise in creating high-quality CPI videos and handling the seamless release of games across various platforms.
+      <br></br><br></br><br></br>Most recently, I released HEXAROMA, a cozy strategy city-builder, in collaboration with an U.S. based publisher on Steam. While my background includes mobile game development, my current focus is on PC and premium game experiences.
+
         <br></br>
-        <br></br>You can visit the preview page by clicking on the project. Some
-        have been published on the Google Play Store and the Apple App Store,
-        some are still in development, and some are just prototypes.
-        Chronologically newest to oldest.
+        <br></br>You can explore my past projects below. Some have been published on the Google Play Store and Apple App Store, while others are still in development or prototypes. They are listed from newest to oldest.
       </p>
+      <h1 className="game">Steam Games</h1>
+      <SteamGameList projects={steamGameData} modalState={false} />
+      <h1 className="game">Mobile Games</h1>
       <GameList projects={gameData} modalState={false} />
 
       <p className="footer-text">
